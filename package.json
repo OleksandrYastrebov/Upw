@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-vue-vuelidate-example",
+  "version": "0.1.0",
+  "description": "BootstrapVue Vuelidate example",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.14.0",
+    "bootstrap": "^4.4.0",
+    "vue": "^2.6.0",
+    "vuelidate": "^0.7.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.3.0"
+  }
+}
